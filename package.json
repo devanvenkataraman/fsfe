@@ -1,0 +1,14 @@
+{
+  "name": "fsfe_app",
+  "version": "1.0.0",
+  "description": "For full stack front end workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "devan venkataraman",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
